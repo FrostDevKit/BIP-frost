@@ -1,6 +1,6 @@
 BIP-X: Title of the BIP
 
-´´ḿarkdown
+´´´markdown
 BIP: X
 Title: Title of the BIP
 Author: Your Name <your.email@example.com>
