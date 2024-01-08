@@ -66,7 +66,6 @@ Give credit to contributors, developers, or organizations that have played a sig
 
 List any relevant literature, resources, or external documentation related to Frost Multisig.
 
-
-== Copyright ==
+## Copyright
 
 This document is licensed under the Creative Commons CC0 1.0 Universal license.
