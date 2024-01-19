@@ -60,11 +60,6 @@ Signature Verification
         Compute e = H(R || Y || m).
         Verify if g^s = R * Y^e (mod q).
 
-### 1. Frost Multisig Parameters
-
-- Number of Signers (N): [Specify the number of signers]
-- Required Signatures (M): [Specify the number of required signatures]
-
 ### 4. Compatibility
 
 Discuss how Frost Multisig interacts with existing Bitcoin wallet software, network nodes, and other relevant components.
@@ -75,7 +70,6 @@ Highlight the security features of Frost Multisig and any potential vulnerabilit
 
 ### 6. Examples
 
-Provide examples of Frost Multisig transactions, including scripts and addresses.
 
 ## Rationale
 
