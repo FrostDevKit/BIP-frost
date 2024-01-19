@@ -52,7 +52,7 @@ Explain the reasoning behind the inclusion of Frost Multisig in the Bitcoin prot
 
 ## Backward Compatibility
 
-Discuss any potential backward compatibility issues with existing wallet software or network nodes.
+This is compatible after Taproot soft fork and Bitcoin Core versions
 
 ## Reference Implementation
 
