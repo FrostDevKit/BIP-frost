@@ -17,7 +17,7 @@ This BIP proposes the integration of Frost Multisig, a specific implementation o
 
 ## Motivation
 
-Multisignature wallets provide enhanced security and control over funds by requiring multiple private keys to authorize transactions. Frost is a specific implementation that offers [insert key features and advantages].
+Multisignature wallets provide enhanced security and control over funds by requiring multiple private keys to authorize transactions. Frost is a specific implementation that offers multisig and privacy beyond add new layers security for who make self custody.
 
 ## Specification
 
