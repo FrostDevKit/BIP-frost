@@ -1,3 +1,3 @@
-# BIP-frost
+# BIP Frost
 
 BIP for Frost
