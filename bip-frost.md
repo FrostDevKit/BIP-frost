@@ -2,7 +2,7 @@
   BIP: xx
   Layer: Applications
   Title: Frost 
-  Author: Rsync25
+  Author: Rsync25 & 22388o
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-xx
   Status: Draft
