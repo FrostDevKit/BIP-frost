@@ -1,7 +1,7 @@
 <pre>
   BIP: xx
   Layer: Applications
-  Title: Frost 
+  Title: Frost Unique Key
   Author: Rsync25 & 22388o
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-xx
